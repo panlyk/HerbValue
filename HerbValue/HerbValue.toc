@@ -1,0 +1,13 @@
+## Interface: 11509
+## Title: HerbValue
+## Notes: Vanilla herb prices from Auctionator's local cache.
+## Author: HerbValue contributors
+## Version: 1.0.0
+## OptionalDeps: Auctionator
+## SavedVariablesPerCharacter: HerbValueDB
+
+Data.lua
+Model.lua
+Auctionator.lua
+UI.lua
+Core.lua
